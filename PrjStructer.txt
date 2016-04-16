@@ -1,3 +1,4 @@
 config: config dirs and files, such as init_sql in db_init
 templates: template file
-static: 
+static: i don't know
+static: i don't know
