@@ -1,0 +1,12 @@
+welcome to my project.
+this project is to build a website for query databse use Python.
+hope it can use less coding when add/delete/edit a database table on view in the website.
+hope it can useful for some im-programmer,when they have no database knowledge,but also use site to query data when they want. 
+it is a practise project,it may abandon intime ,i am just try it to be cool with my off hours.
+this is Hlixing from Hangzhou,china.
+
+i love my wife(zm), she is 170cm tall. 
+i dislike my wife(zm), she is 170cm tall.
+that's a fun.
+
+Now it starts.
