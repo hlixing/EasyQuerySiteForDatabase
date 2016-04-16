@@ -1,0 +1,18 @@
+CREATE TABLE `gs_fddbr` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) DEFAULT NULL,
+  `address` varchar(200) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=20 DEFAULT CHARSET=utf8;
+
+INSERT INTO `gs_fddbr` (`id`, `name`, `address`) VALUES (1, 'Zoooooo', 'Beijing');
+INSERT INTO `gs_fddbr` (`id`, `name`, `address`) VALUES (2, 'Ben', 'Shanghai');
+INSERT INTO `gs_fddbr` (`id`, `name`, `address`) VALUES (3, 'Tom', 'Hangzhou');
+INSERT INTO `gs_fddbr` (`id`, `name`, `address`) VALUES (4, 'Mike', 'Shenzhen');
+INSERT INTO `gs_fddbr` (`id`, `name`, `address`) VALUES (13, 'Kate', 'Guangzhou');
+INSERT INTO `gs_fddbr` (`id`, `name`, `address`) VALUES (14, 'Jake', 'Hefei');
+INSERT INTO `gs_fddbr` (`id`, `name`, `address`) VALUES (15, 'Allen', 'Wulumuqi');
+INSERT INTO `gs_fddbr` (`id`, `name`, `address`) VALUES (16, 'Calare', 'Tibet');
+INSERT INTO `gs_fddbr` (`id`, `name`, `address`) VALUES (17, 'Doom', 'Qinghai');
+INSERT INTO `gs_fddbr` (`id`, `name`, `address`) VALUES (18, 'Fami', 'Yunnan');
+INSERT INTO `gs_fddbr` (`id`, `name`, `address`) VALUES (19, 'Gabblen', 'Hebei');
